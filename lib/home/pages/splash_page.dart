@@ -22,7 +22,7 @@ class SplashPage extends StatelessWidget {
                     'SEVENDAYS',
                     style: GoogleFonts.dmSerifDisplay(
                       color: Colors.white,
-                      fontSize: 32,
+                      fontSize: 30,
                     ),
                   ),
                 ],
